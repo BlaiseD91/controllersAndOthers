@@ -1,0 +1,17 @@
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.exe
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.deps.json
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.runtimeconfig.json
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.dll
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.pdb
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.AssemblyInfoInputs.cache
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.AssemblyInfo.cs
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.csproj.CoreCompileInputs.cache
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.dll
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\refint\RealEstate.dll
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.pdb
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.genruntimeconfig.cache
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\ref\RealEstate.dll
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.csproj.AssemblyReference.cache
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\School\SZOFT\school\VIZSGA\gyak\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.csproj.CopyComplete
